@@ -2777,3 +2777,7 @@ blockquote {
 
 .text-justify {
 }
+
+.justify-center {
+	justify-content: center;
+}
